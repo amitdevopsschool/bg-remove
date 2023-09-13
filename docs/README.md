@@ -24,12 +24,12 @@ Simple tool to **erase background** of any images
 
 **Install Packages**
 ```console
-pnpm install
+npm install
 ```
 
 **Start Dev Server**
 ```console
-pnpm dev
+npm dev
 ```
 _Now go to http://localhost:3000_
 
@@ -42,17 +42,17 @@ UMAMI_WEBSITE_ID=
 
 **Install Packages**
 ```console
-pnpm install
+npm install
 ```
 
 **Build Website**
 ```console
-pnpm build
+npm build
 ```
 
 **Start Production Server**
 ```console
-pnpm start
+npm start
 ```
 _Now go to http://localhost:3000_
 
